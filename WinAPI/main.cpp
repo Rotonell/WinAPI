@@ -52,7 +52,6 @@ BOOL CALLBACK DlgProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
 		Login = TRUE;
 		Password = TRUE;
 
-		return TRUE;
 	}
 	break;
 
