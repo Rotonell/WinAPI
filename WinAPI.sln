@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListBox", "ListBox\ListBox.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calc", "Calc\Calc.vcxproj", "{59A1EE4A-EA2E-4210-80CC-D976B9C52F05}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recource-onlyDLL", "Recource-onlyDLL\Recource-onlyDLL.vcxproj", "{3B664897-F5EF-4391-B978-67265FDA152A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CalcSetup", "CalcSetup\CalcSetup.vdproj", "{7F3F295B-AEC1-4B65-8069-9BC1EC69C84C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,18 @@ Global
 		{59A1EE4A-EA2E-4210-80CC-D976B9C52F05}.Release|x64.Build.0 = Release|x64
 		{59A1EE4A-EA2E-4210-80CC-D976B9C52F05}.Release|x86.ActiveCfg = Release|Win32
 		{59A1EE4A-EA2E-4210-80CC-D976B9C52F05}.Release|x86.Build.0 = Release|Win32
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Debug|x64.ActiveCfg = Debug|x64
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Debug|x64.Build.0 = Debug|x64
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Debug|x86.Build.0 = Debug|Win32
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Release|x64.ActiveCfg = Release|x64
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Release|x64.Build.0 = Release|x64
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Release|x86.ActiveCfg = Release|Win32
+		{3B664897-F5EF-4391-B978-67265FDA152A}.Release|x86.Build.0 = Release|Win32
+		{7F3F295B-AEC1-4B65-8069-9BC1EC69C84C}.Debug|x64.ActiveCfg = Debug
+		{7F3F295B-AEC1-4B65-8069-9BC1EC69C84C}.Debug|x86.ActiveCfg = Debug
+		{7F3F295B-AEC1-4B65-8069-9BC1EC69C84C}.Release|x64.ActiveCfg = Release
+		{7F3F295B-AEC1-4B65-8069-9BC1EC69C84C}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
